@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="labelNombre">Nombre :</string>
+    <string name="labelApellidos">Apellidos :</string>
+    <string name="labelEmail">eMail :</string>
+    <string name="labelTelefono">Teléfono :</string>
+    <string name="labelInfoLog">Mostrar información Log</string>
+    <string name="txtNombre">Nombre de pila </string>
+    <string name="txtApellidos">Los dos apellidos</string>
+    <string name="txtEmail">Correo electrónico </string>
+    <string name="txtTelefono">Teléfono móvil </string>
+    <string name="swtLog">Mostrar información Log </string>
+
+
+</resources>
